@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cd1527d-0c07-4619-8766-e8dddbae53c9" name="Changes" comment="" />
+    <list default="true" id="2cd1527d-0c07-4619-8766-e8dddbae53c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BiPolarBunny/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BiPolarBunny/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/BiPolarBunny.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/BiPolarBunny.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyCombat.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyCombat.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GamepadInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GamepadInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KeyboardInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KeyboardInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +33,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/jaydensakow-ops/TilemapInClassS26.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/jaydensakow-ops/BiPolarBunny.git&quot;,
     &quot;accountId&quot;: &quot;184eb4b1-217d-4a9a-90c3-07f5341af050&quot;
   }
 }</component>
@@ -92,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757037397223</updated>
       <workItem from="1757037398246" duration="1648000" />
-      <workItem from="1778551237180" duration="1874000" />
+      <workItem from="1778551237180" duration="3521000" />
     </task>
     <servers />
   </component>
