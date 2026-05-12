@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2cd1527d-0c07-4619-8766-e8dddbae53c9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BiPolarBunny/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BiPolarBunny/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Player/PlayerAttack.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Player/PlayerAttack.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Player/PlayerIdle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Player/PlayerIdle.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerInputActions.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerInputActions.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Tilemap_Elevation.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Tilemap_Elevation.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Tilemap_Flat.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Tilemap_Flat.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/BiPolarBunny.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/BiPolarBunny.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +33,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/PlayerInputActions.inputactions" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/BiPolarBunny.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TileAssets/New Tile Palette.prefab" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -100,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757037397223</updated>
       <workItem from="1757037398246" duration="1648000" />
-      <workItem from="1778551237180" duration="4654000" />
+      <workItem from="1778551237180" duration="6054000" />
     </task>
     <task id="LOCAL-00001" summary="Added player input">
       <option name="closed" value="true" />
@@ -110,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1778556756650</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added attacking">
+      <option name="closed" value="true" />
+      <created>1778557848489</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778557848489</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added tiles">
+      <option name="closed" value="true" />
+      <created>1778559555047</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778559555047</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +145,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added player input" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added player input" />
+    <MESSAGE value="Added attacking" />
+    <MESSAGE value="Added tiles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added tiles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
